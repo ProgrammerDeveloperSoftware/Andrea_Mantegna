@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    padding-top: 50px;
+}
+
+div{
+    width: 400px;
+    height: 400px;
+    background-color: rgb(66, 179, 255);
+    margin: auto;
+}
+
+#titolo{
+    text-align: center;
+    color: rgb(33, 121, 252);
+    font-size: 22px;
+    text-transform: uppercase;
+}
+
+img{
+    width: 80px;
+    height: 100px;
+    padding-top: 20px;
+    padding-left: 160px;
+}
+
+#testo{
+    padding: 7px;
+    color: rgb(33, 66, 252);
+    font-size: 19px;
+}
